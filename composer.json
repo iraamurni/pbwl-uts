@@ -1,0 +1,14 @@
+{
+    "name": "asus/uts-ira",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^5.6.3"
+    },
+    "authors": [
+        {
+            "name": "Ira Murni",
+            "email": "iraa.murni@gmail.com"
+        }
+    ]
+}
